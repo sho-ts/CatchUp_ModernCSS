@@ -20,7 +20,7 @@ const styles = {
   col: css`
     width: calc(33% - 30px);
     height: 200px;
-    border:1px solid #000;
+    background: var(--bg-gradient);
   `,
 };
 
